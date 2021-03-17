@@ -1,0 +1,29 @@
+.App {
+  width: 100%;
+  max-width: 330px;
+  padding: auto;
+  margin: auto;
+  height: 100%;
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  background-color: #f1b2b2;
+}
+button{width: 330px;
+height: 40px;
+padding: auto;
+background-color:#5729c4;
+color: blanchedalmond;
+font-family: italic;
+font-size: 20px;
+border: none;
+border-radius: 12px;
+cursor: pointer;
+}
+input{padding: auto;
+}
+.email{margin: 50px;}
+.password{margin: 50px;}
+.sp{padding: 10px;}
+h1{font-family: italic;
+color: black;}
